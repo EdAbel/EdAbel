@@ -1,4 +1,5 @@
-## Hi there 👋
+_"Just 'cause you feel it, doesn't mean it's there"
+
 
 <!--
 **EdAbel/EdAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
